@@ -1,0 +1,13 @@
+{
+  "project_title": "Library Inventory Audit",
+  "goal": "Summarize inventory health and identify missing items.",
+  "entity_name": "catalog_item",
+  "amount_label": "copies",
+  "score_label": "condition_score",
+  "categories": [
+    "reference",
+    "fiction",
+    "nonfiction",
+    "archive"
+  ]
+}
